@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=MyVector
+comment1.params=vector
+comment1.target=java.lang.String[]\ llenarVector(java.lang.String[])
+comment2.params=vector
+comment2.target=void\ mostrarVector(java.lang.String[])
+comment3.params=vector\ x
+comment3.target=boolean\ encontrarXenVector(java.lang.String[],\ java.lang.String)
+comment4.params=vector\ x
+comment4.target=int\ encontrarPosicionXenVector(java.lang.String[],\ java.lang.String)
+comment5.params=vector\ p
+comment5.target=java.lang.String\ encontrarElementoXenVector(java.lang.String[],\ int)
+comment5.text=\r\n\ @return\:\ El\ elemento\ de\ retorno\ es\ un\ String\r\n\ correspondiente\ a\ un\ elemento\ del\ vector\ String[]\ vector,\r\n\ retorna\ "null"\ en\ caso\ de\ no\ existir\ el\ elemento\r\n
+numComments=6

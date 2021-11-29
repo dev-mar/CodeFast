@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Solucion2_1_P2
+comment1.params=
+comment1.target=void\ main1()
+comment2.params=dato
+comment2.target=boolean\ verificarA(java.lang.String)
+comment2.text=int\ verificarA(String\ dato)\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ int\ resp;\r\n\ \ \ \ \ \ \ resp\=\ MyString.contarCaracterEnPalabra('@',\ dato);\r\n\ \ \ \ \ \ \ return\ resp;\r\n}
+comment3.params=dato
+comment3.target=boolean\ verificarB(java.lang.String)
+comment4.params=dato
+comment4.target=boolean\ verificarC(java.lang.String)
+comment5.params=dato
+comment5.target=boolean\ verificarD(java.lang.String)
+comment6.params=dato
+comment6.target=boolean\ verificarE(java.lang.String)
+numComments=7

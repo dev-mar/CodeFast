@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Pais
+comment1.params=
+comment1.target=Pais()
+comment2.params=nombre
+comment2.target=Pais(java.lang.String)
+comment3.params=nombre\ capital
+comment3.target=Pais(java.lang.String,\ java.lang.String)
+comment4.params=nombre
+comment4.target=void\ setNombre(java.lang.String)
+comment4.text=\r\n@setNombre\r\nPermite\ modificar\ el\ contenido\ del\ nombre\ para\ el\ pais.\r\n@String\ @nombre\r\nEl\ parametro\ debe\ ser\ un\ nombre\ de\ tipo\ cadena.\r\n
+comment5.params=capital
+comment5.target=void\ setCapital(java.lang.String)
+comment6.params=poblacion
+comment6.target=void\ setPoblacion(int)
+comment7.params=
+comment7.target=java.lang.String\ getNombre()
+comment8.params=
+comment8.target=java.lang.String\ getCapital()
+comment9.params=
+comment9.target=int\ getPoblacion()
+numComments=10

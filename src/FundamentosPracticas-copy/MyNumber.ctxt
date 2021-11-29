@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MyNumber
+comment1.params=vector
+comment1.target=int\ elementoMayor(int[])
+comment2.params=numero
+comment2.target=int\ cantidadDigitos(int)
+comment3.params=a\ b
+comment3.target=int\ elMenor(int,\ int)
+numComments=4

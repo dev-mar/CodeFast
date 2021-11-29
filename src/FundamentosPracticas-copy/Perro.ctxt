@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Perro
+comment1.params=
+comment1.target=Perro()
+comment2.params=raza
+comment2.target=Perro(java.lang.String)
+comment3.params=raza
+comment3.target=void\ setRaza(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getRaza()
+comment5.params=color
+comment5.target=void\ setColor(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getColor()
+comment7.params=tamanho
+comment7.target=void\ setTamanho(double)
+comment8.params=
+comment8.target=double\ getTamanho()
+numComments=9
